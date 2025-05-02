@@ -1,0 +1,12 @@
+{
+    "name": "karo/beeline-sms",
+    "description": "Пакет для отправки SMS через Beeline API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Karo\\BeelineSms\\": "src/"
+        }
+    },
+    "require": {}
+}
