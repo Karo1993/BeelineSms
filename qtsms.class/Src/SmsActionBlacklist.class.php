@@ -6,7 +6,7 @@
  *  All rights reserved.
  */
 
-namespace Karo\BeelineSms\Src;
+namespace Karo\BeelineSms;
 
 /**
  * Реализует операцию: Получение списка телефонов, занесенных в черный список
