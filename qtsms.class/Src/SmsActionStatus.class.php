@@ -6,7 +6,7 @@
  *  All rights reserved.
  */
 
-namespace Src;
+namespace Karo\BeelineSms\Src;
 
 /**
  * Реализует операцию: Получение данных и статусов сообщений
