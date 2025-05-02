@@ -6,7 +6,7 @@
  *  All rights reserved.
  */
 
-namespace Karo\BeelineSms\Src;
+namespace Karo\BeelineSms;
 
 /**
  * Реализует операцию: Добавление телефонов в черный список
