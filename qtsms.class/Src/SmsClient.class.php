@@ -6,7 +6,7 @@
  *  All rights reserved.
  */
 
-namespace Src;
+namespace Karo\BeelineSms\Src;
 
 /**
  * Реализует клиент для подключения к серверу отправки СМС.
