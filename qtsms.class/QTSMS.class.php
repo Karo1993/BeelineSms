@@ -6,11 +6,11 @@
  *  All rights reserved.
  */
 
-use Karo\BeelineSms\Src\SmsActionBalance;
-use Karo\BeelineSms\Src\SmsActionInbox;
-use Karo\BeelineSms\Src\SmsActionPostSms;
-use Karo\BeelineSms\Src\SmsActionStatus;
-use Karo\BeelineSms\Src\SmsClient;
+use Karo\BeelineSms\SmsActionBalance;
+use Karo\BeelineSms\SmsActionInbox;
+use Karo\BeelineSms\SmsActionPostSms;
+use Karo\BeelineSms\SmsActionStatus;
+use Karo\BeelineSms\SmsClient;
 
 /**
  * Класс-обертка для совместимости старого интерфейса отправки с новым классом на PHP7
